@@ -2,7 +2,7 @@
 
 
 
-# Split The Check - Final Presentation Summary
+# Split The Check
 
 This document provides a summary of the final presentation for the "Split The Check" project, which focuses on an application designed to simplify the process of splitting bills among participants in a restaurant or similar setting.
 
